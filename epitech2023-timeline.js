@@ -77,6 +77,9 @@ function drawChart() {
 
     ['Elementary Programming in C (I)', 'BSQ', start(05, 11, 2018), end(25, 11, 2018)],
     ['Elementary Programming in C (I)', 'Pushswap', start(26, 11, 2018), end(16, 12, 2018)],
+
+    ['Elementary Programming in C (II)', 'GetNextLine', start(17, 12, 2018), end(06, 01, 2019)],
+    ['Elementary Programming in C (II)', 'Matchstick', start(07, 01, 2019), end(27, 01, 2019)],
   ]);
 
 
