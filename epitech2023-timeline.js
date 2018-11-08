@@ -80,6 +80,11 @@ function drawChart() {
 
     ['Elementary Programming in C (II)', 'GetNextLine', start(17, 12, 2018), end(06, 01, 2019)],
     ['Elementary Programming in C (II)', 'Matchstick', start(07, 01, 2019), end(27, 01, 2019)],
+    
+    ['C Graphical Programming', 'MyScreenSaver', start(12, 11, 2018), end(02, 12, 2018)],
+    ['C Graphical Programming', 'MyHunter', start(12, 11, 2018), end(02, 12, 2018)],
+    ['C Graphical Programming', 'MyRadar', start(10, 12, 2018), end(20, 01, 2019)],
+    ['C Graphical Programming', 'MyRunner', start(10, 12, 2018), end(20, 01, 2018)],
   ]);
 
 
