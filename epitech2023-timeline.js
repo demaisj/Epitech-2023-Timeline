@@ -74,6 +74,9 @@ function drawChart() {
 
     ['Unix System Programming (II)', 'my_ls', start(31, 12, 2018), end(13, 01, 2019)],
     ['Unix System Programming (II)', 'minishell 1', start(14, 01, 2019), end(03, 02, 2019)],
+
+    ['Elementary Programming in C (I)', 'BSQ', start(05, 11, 2018), end(25, 11, 2018)],
+    ['Elementary Programming in C (I)', 'Pushswap', start(26, 11, 2018), end(16, 12, 2018)],
   ]);
 
 
