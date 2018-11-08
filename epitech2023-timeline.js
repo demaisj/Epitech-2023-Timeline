@@ -62,6 +62,12 @@ function drawChart() {
 
     [ 'Projects (II)', 'Bistro-matic', start(22, 10, 2018), end(4, 11, 2018) ],
     //[ 'Projects (II)', 'BTTF - Bistro-matic', start(17, 12, 2018), end(30, 12, 2018) ],
+
+    [ 'Mathematics', '101pong', start(05, 11, 2018), end(18, 11, 2018)],
+    [ 'Mathematics', '102architect', start(19, 11, 2018), end(02, 12, 2018)],
+    [ 'Mathematics', '103cipher', start(03, 12, 2018), end(16, 12, 2018)],
+    [ 'Mathematics', '104intersection', start(17, 12, 2018), end(06, 01, 2019)],
+    [ 'Mathematics', '105torus', start(07, 01, 2019), end(20, 01, 2019)],
   ]);
 
 
