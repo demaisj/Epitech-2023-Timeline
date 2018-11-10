@@ -31,37 +31,28 @@ function drawChart() {
   dataTable.addRows([
     [ '\0', 'Now', now, now ],
 
-    [ 'Accompagnement', 'Introduction conferences', start(24, 9, 2018), end(30, 9, 2018) ],
-    [ 'Accompagnement', 'Assistance', start(18, 10, 2018), end(23, 10, 2018) ],
+    [ 'Mathematics', '101pong', start(05, 11, 2018), end(18, 11, 2018)],
+    [ 'Mathematics', '102architect', start(19, 11, 2018), end(02, 12, 2018)],
+    [ 'Mathematics', '103cipher', start(03, 12, 2018), end(16, 12, 2018)],
+    [ 'Mathematics', '104intersection', start(17, 12, 2018), end(06, 01, 2019)],
+    [ 'Mathematics', '105torus', start(07, 01, 2019), end(20, 01, 2019)],
 
-    [ 'Rushs (I)', 'Rush 1', start(6, 10, 2018), end(7, 10, 2018) ],
-    [ 'Rushs (I)', 'Rush 2', start(13, 10, 2018), end(14, 10, 2018) ],
+    [ 'Unix System Programming (I)', 'my_printf', start(05, 11, 2018), end(18, 11, 2018)],
+    [ 'Unix System Programming (I)', 'my_printf', start(19, 11, 2018), end(09, 12, 2018)],
 
-    [ 'Mini-projects (I)', 'Fir Tree', start(3, 10, 2018), end(7, 10, 2018) ],
-    [ 'Mini-projects (I)', 'match nmatch', start(8, 10, 2018), end(14, 10, 2018) ],
-    [ 'Mini-projects (I)', 'Lib Workshop', start(18, 10, 2018), end(23, 10, 2018) ],
+    ['Unix System Programming (II)', 'my_ls', start(31, 12, 2018), end(13, 01, 2019)],
+    ['Unix System Programming (II)', 'minishell 1', start(14, 01, 2019), end(03, 02, 2019)],
 
-    [ 'TPs (I)', '01', start(1, 10, 2018), end(2, 10, 2018) ],
-    [ 'TPs (I)', '02', start(2, 10, 2018), end(3, 10, 2018) ],
-    [ 'TPs (I)', '03', start(3, 10, 2018), end(4, 10, 2018) ],
-    [ 'TPs (I)', '04', start(4, 10, 2018), end(5, 10, 2018) ],
-    [ 'TPs (I)', '05', start(5, 10, 2018), end(8, 10, 2018) ],
-    [ 'TPs (I)', '06', start(8, 10, 2018), end(9, 10, 2018) ],
-    [ 'TPs (I)', '07', start(9, 10, 2018), end(10, 10, 2018) ],
-    [ 'TPs (I)', '08', start(10, 10, 2018), end(11, 10, 2018) ],
-    [ 'TPs (I)', '09', start(11, 10, 2018), end(12, 10, 2018) ],
-    [ 'TPs (I)', '10', start(12, 10, 2018), end(15, 10, 2018) ],
-    [ 'TPs (I)', '11', start(15, 10, 2018), end(16, 10, 2018) ],
-    [ 'TPs (I)', '12', start(16, 10, 2018), end(17, 10, 2018) ],
-    [ 'TPs (I)', '13', start(17, 10, 2018), end(18, 10, 2018) ],
+    ['Elementary Programming in C (I)', 'BSQ', start(05, 11, 2018), end(25, 11, 2018)],
+    ['Elementary Programming in C (I)', 'Pushswap', start(26, 11, 2018), end(16, 12, 2018)],
 
-    [ 'Stumpers (II)', 'Final Stumper', start(27, 10, 2018), end(27, 10, 2018) ],
+    ['Elementary Programming in C (II)', 'GetNextLine', start(17, 12, 2018), end(06, 01, 2019)],
+    ['Elementary Programming in C (II)', 'Matchstick', start(07, 01, 2019), end(27, 01, 2019)],
 
-    [ 'Mini-projects (II)', 'InfinAdd', start(22, 10, 2018), end(23, 10, 2018) ],
-    [ 'Mini-projects (II)', 'EvalExpr', start(24, 10, 2018), end(28, 10, 2018) ],
-
-    [ 'Projects (II)', 'Bistro-matic', start(22, 10, 2018), end(4, 11, 2018) ],
-    //[ 'Projects (II)', 'BTTF - Bistro-matic', start(17, 12, 2018), end(30, 12, 2018) ],
+    ['C Graphical Programming', 'MyScreenSaver', start(12, 11, 2018), end(02, 12, 2018)],
+    ['C Graphical Programming', 'MyHunter', start(12, 11, 2018), end(02, 12, 2018)],
+    ['C Graphical Programming', 'MyRadar', start(10, 12, 2018), end(20, 01, 2019)],
+    ['C Graphical Programming', 'MyRunner', start(10, 12, 2018), end(20, 01, 2019)],
   ]);
 
 
