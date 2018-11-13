@@ -38,7 +38,7 @@ function drawChart() {
     [ 'Mathematics', '105torus', start(07, 01, 2019), end(20, 01, 2019)],
 
     [ 'Unix System Programming (I)', 'my_printf', start(05, 11, 2018), end(18, 11, 2018)],
-    [ 'Unix System Programming (I)', 'my_printf', start(19, 11, 2018), end(09, 12, 2018)],
+    [ 'Unix System Programming (I)', 'my_sokoban', start(19, 11, 2018), end(09, 12, 2018)],
 
     ['Unix System Programming (II)', 'my_ls', start(31, 12, 2018), end(13, 01, 2019)],
     ['Unix System Programming (II)', 'minishell 1', start(14, 01, 2019), end(03, 02, 2019)],
