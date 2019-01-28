@@ -31,28 +31,28 @@ function drawChart() {
   dataTable.addRows([
     [ '\0', 'Now', now, now ],
 
-    [ 'Mathematics', '101pong', start(05, 11, 2018), end(18, 11, 2018)],
-    [ 'Mathematics', '102architect', start(19, 11, 2018), end(02, 12, 2018)],
-    [ 'Mathematics', '103cipher', start(03, 12, 2018), end(16, 12, 2018)],
-    [ 'Mathematics', '104intersection', start(17, 12, 2018), end(06, 01, 2019)],
-    [ 'Mathematics', '105torus', start(07, 01, 2019), end(20, 01, 2019)],
+    [ 'Unix System Programming (First semester)', 'Minishell1', start(28, 01, 2019), end(03, 02, 2019)],
 
-    [ 'Unix System Programming (I)', 'my_printf', start(05, 11, 2018), end(18, 11, 2018)],
-    [ 'Unix System Programming (I)', 'my_sokoban', start(19, 11, 2018), end(09, 12, 2018)],
+    [ 'Mathematics', '106bombyx', start(18, 02, 2019), end(03, 03, 2019)],
+    [ 'Mathematics', '107transfer', start(04, 03, 2019), end(17, 03, 2019)],
+    [ 'Mathematics', '108trigo', start(18, 03, 2019), end(31, 03, 2019)],
+    [ 'Mathematics', '104intersection', start(01, 04, 2019), end(14, 04, 2019)],
+    [ 'Mathematics', '101borwein', start(15, 04, 2019), end(28, 04, 2019)],
 
-    ['Unix System Programming (II)', 'my_ls', start(31, 12, 2018), end(13, 01, 2019)],
-    ['Unix System Programming (II)', 'minishell 1', start(14, 01, 2019), end(03, 02, 2019)],
+    [ 'Shell Programming', 'Minishell2', start(11, 03, 2019), end(07, 04, 2019)],
+    [ 'Shell Programming', '42sh', start(29, 04, 2019), end(26, 05, 2019)],
 
-    ['Elementary Programming in C (I)', 'BSQ', start(05, 11, 2018), end(25, 11, 2018)],
-    ['Elementary Programming in C (I)', 'Pushswap', start(26, 11, 2018), end(16, 12, 2018)],
+    ['Unix System Programming', 'Navy', start(18, 02, 2019), end(10, 03, 2019)],
+    ['Unix System Programming', 'Tetris', start(08, 04, 2019), end(28, 04, 2019)],
 
-    ['Elementary Programming in C (II)', 'GetNextLine', start(17, 12, 2018), end(06, 01, 2019)],
-    ['Elementary Programming in C (II)', 'Matchstick', start(07, 01, 2019), end(27, 01, 2019)],
+    ['Elementary Programming in C (I)', 'Lem-in', start(25, 02, 2019), end(24, 03, 2019)],
+    ['Elementary Programming in C (I)', 'Dante\'s star', start(25, 03, 2019), end(14, 04, 2019)],
 
-    ['C Graphical Programming', 'MyScreenSaver', start(12, 11, 2018), end(02, 12, 2018)],
-    ['C Graphical Programming', 'MyHunter', start(12, 11, 2018), end(02, 12, 2018)],
-    ['C Graphical Programming', 'MyRadar', start(10, 12, 2018), end(20, 01, 2019)],
-    ['C Graphical Programming', 'MyRunner', start(10, 12, 2018), end(20, 01, 2019)],
+    ['Elementary Programming in C (II)', 'Corewar', start(22, 04, 2019), end(19, 05, 2019)],
+
+    ['C Graphical Programming', 'MyDefender', start(18, 02, 2019), end(17, 03, 2019)],
+    ['C Graphical Programming', 'MyWorld', start(18, 02, 2019), end(17, 03, 2019)],
+    ['C Graphical Programming', 'MyRPG', start(18, 03, 2019), end(05, 05, 2019)],
   ]);
 
 
