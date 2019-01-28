@@ -43,7 +43,7 @@ function drawChart() {
     [ 'Shell Programming', '42sh', start(29, 04, 2019), end(26, 05, 2019)],
 
     ['Unix System Programming', 'Navy', start(18, 02, 2019), end(10, 03, 2019)],
-    ['Unix System Programming', 'Tetris', start(08, 04, 2019), end(28, 04, 2019)],
+    ['Unix System Programming', 'Tetris', start(08, 02, 2019), end(28, 04, 2019)],
 
     ['Elementary Programming in C (I)', 'Lem-in', start(25, 02, 2019), end(24, 03, 2019)],
     ['Elementary Programming in C (I)', 'Dante\'s star', start(25, 03, 2019), end(14, 04, 2019)],
