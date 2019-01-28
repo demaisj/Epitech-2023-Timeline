@@ -31,28 +31,28 @@ function drawChart() {
   dataTable.addRows([
     [ '\0', 'Now', now, now ],
 
-    [ 'Unix System Programming (First semester)', 'Minishell1', start(28, 01, 2019), end(03, 02, 2019)],
+    [ 'Unix System Programming (First semester)', 'Minishell1', start(14, 01, 2019), end(03, 02, 2019)],
+
+    ['Unix System Programming', 'Tetris', start(08, 02, 2019), end(28, 04, 2019)],
+    ['Unix System Programming', 'Navy', start(18, 02, 2019), end(10, 03, 2019)],
 
     [ 'Mathematics', '106bombyx', start(18, 02, 2019), end(03, 03, 2019)],
     [ 'Mathematics', '107transfer', start(04, 03, 2019), end(17, 03, 2019)],
     [ 'Mathematics', '108trigo', start(18, 03, 2019), end(31, 03, 2019)],
-    [ 'Mathematics', '104intersection', start(01, 04, 2019), end(14, 04, 2019)],
-    [ 'Mathematics', '101borwein', start(15, 04, 2019), end(28, 04, 2019)],
-
-    [ 'Shell Programming', 'Minishell2', start(11, 03, 2019), end(07, 04, 2019)],
-    [ 'Shell Programming', '42sh', start(29, 04, 2019), end(26, 05, 2019)],
-
-    ['Unix System Programming', 'Navy', start(18, 02, 2019), end(10, 03, 2019)],
-    ['Unix System Programming', 'Tetris', start(08, 02, 2019), end(28, 04, 2019)],
-
-    ['Elementary Programming in C (I)', 'Lem-in', start(25, 02, 2019), end(24, 03, 2019)],
-    ['Elementary Programming in C (I)', 'Dante\'s star', start(25, 03, 2019), end(14, 04, 2019)],
-
-    ['Elementary Programming in C (II)', 'Corewar', start(22, 04, 2019), end(19, 05, 2019)],
+    [ 'Mathematics', '109titration', start(01, 04, 2019), end(14, 04, 2019)],
+    [ 'Mathematics', '110borwein', start(15, 04, 2019), end(28, 04, 2019)],
 
     ['C Graphical Programming', 'MyDefender', start(18, 02, 2019), end(17, 03, 2019)],
     ['C Graphical Programming', 'MyWorld', start(18, 02, 2019), end(17, 03, 2019)],
     ['C Graphical Programming', 'MyRPG', start(18, 03, 2019), end(05, 05, 2019)],
+
+    ['Elementary Programming in C (I)', 'Lem-in', start(25, 02, 2019), end(24, 03, 2019)],
+    ['Elementary Programming in C (I)', 'Dante\'s star', start(25, 03, 2019), end(14, 04, 2019)],
+
+    [ 'Shell Programming', 'Minishell2', start(11, 03, 2019), end(07, 04, 2019)],
+    [ 'Shell Programming', '42sh', start(29, 04, 2019), end(26, 05, 2019)],
+
+    ['Elementary Programming in C (II)', 'Corewar', start(22, 04, 2019), end(19, 05, 2019)],
   ]);
 
 
