@@ -33,8 +33,8 @@ function drawChart() {
 
     [ 'Unix System Programming (First semester)', 'Minishell1', start(14, 01, 2019), end(03, 02, 2019)],
 
-    ['Unix System Programming', 'Tetris', start(08, 02, 2019), end(28, 04, 2019)],
     ['Unix System Programming', 'Navy', start(18, 02, 2019), end(10, 03, 2019)],
+    ['Unix System Programming', 'Tetris', start(08, 04, 2019), end(28, 04, 2019)],
 
     [ 'Mathematics', '106bombyx', start(18, 02, 2019), end(03, 03, 2019)],
     [ 'Mathematics', '107transfer', start(04, 03, 2019), end(17, 03, 2019)],
