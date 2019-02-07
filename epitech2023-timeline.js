@@ -53,6 +53,12 @@ function drawChart() {
     [ 'Shell Programming', '42sh', start(29, 04, 2019), end(26, 05, 2019)],
 
     ['Elementary Programming in C (II)', 'Corewar', start(22, 04, 2019), end(19, 05, 2019)],
+
+    ['Introduction to A.I.', 'Need4Stek', start(08, 04, 2019), end(12, 05, 2019)],
+
+    ['Introduction to System Administration', 'My Web', start(25, 02, 2019), end(24, 03, 2019)],
+
+    ['Introduction to Web Development', 'EPyTodo', start(25, 03, 2019), end(08, 04, 2019)]
   ]);
 
 
