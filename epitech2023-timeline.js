@@ -46,19 +46,19 @@ function drawChart() {
     ['C Graphical Programming', 'MyWorld', start(18, 02, 2019), end(17, 03, 2019)],
     ['C Graphical Programming', 'MyRPG', start(18, 03, 2019), end(05, 05, 2019)],
 
+    ['Introduction to System Administration', 'My Web', start(25, 02, 2019), end(24, 03, 2019)],
+
     ['Elementary Programming in C (I)', 'Lem-in', start(25, 02, 2019), end(24, 03, 2019)],
     ['Elementary Programming in C (I)', 'Dante\'s star', start(25, 03, 2019), end(14, 04, 2019)],
 
     [ 'Shell Programming', 'Minishell2', start(11, 03, 2019), end(07, 04, 2019)],
     [ 'Shell Programming', '42sh', start(29, 04, 2019), end(26, 05, 2019)],
 
-    ['Elementary Programming in C (II)', 'Corewar', start(22, 04, 2019), end(19, 05, 2019)],
+    ['Introduction to Web Development', 'EPyTodo', start(25, 03, 2019), end(08, 04, 2019)],
 
     ['Introduction to A.I.', 'Need4Stek', start(08, 04, 2019), end(12, 05, 2019)],
 
-    ['Introduction to System Administration', 'My Web', start(25, 02, 2019), end(24, 03, 2019)],
-
-    ['Introduction to Web Development', 'EPyTodo', start(25, 03, 2019), end(08, 04, 2019)]
+    ['Elementary Programming in C (II)', 'Corewar', start(22, 04, 2019), end(19, 05, 2019)]
   ]);
 
 
