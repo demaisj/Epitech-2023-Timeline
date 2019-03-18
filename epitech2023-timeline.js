@@ -58,7 +58,9 @@ function drawChart() {
 
     ['Introduction to A.I.', 'Need4Stek', start(08, 04, 2019), end(12, 05, 2019)],
 
-    ['Elementary Programming in C (II)', 'Corewar', start(22, 04, 2019), end(19, 05, 2019)]
+    ['Elementary Programming in C (II)', 'Corewar', start(22, 04, 2019), end(19, 05, 2019)],
+
+    ['Security - Binary', 'NOOB', start(06, 05, 2019), end(19, 05, 2019)]
   ]);
 
 
